@@ -24,7 +24,7 @@ _**📚 Use Cases:**_
 
 [OSINT Framework]([url](https://osintframework.com/))
 
-#OSINT Dojo
+# OSINT Dojo
 
 **About👇👇**
 OSINT Dojo is an online platform dedicated to enhancing the skills and knowledge of individuals interested in Open Source Intelligence (OSINT). It serves as a training ground for both beginners and experienced practitioners, offering a variety of resources, courses, and community engagement opportunities.
@@ -144,9 +144,16 @@ Image .jpeg
 # Usefull link🔗
 
 [OSINT Movies]([url](https://www.osinttechniques.com/osint-movies.html))
+
 [OSINT Books]([url](https://www.osinttechniques.com/osint-reading.html))
+
 [OSINT Courses]([url](https://www.osinttechniques.com/osint-courses.html))
+
 [OSINT Ultimate]([url](https://www.osinttechniques.com/osint-tools.html))
+
 [OSINT Full course via Youtube]([url](https://youtu.be/qwA6MmbeGNo?si=JFg09C2s0juSo_Xf))
+
 [Google Hacking DB]([url](https://www.exploit-db.com/))
+
 [Google Dorking]([url](https://drive.google.com/file/d/1ij6bLESyn-of9WO_fCGVqSMDuUmOA_Du/view?usp=drivesdk)) 
+
